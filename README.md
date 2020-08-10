@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Diane :wave: 
+#### JavaScript enthusiast on the verge of graduating from Codaisseur Coding Academy in Amsterdam.
+
+:construction: Currently working on my portfolio project, check out my repositories. 
+
+:information_source: [Get in touch!]("https://www.linkedin.com/in/diane-van-eldik-a67450123/")
+
 
 <!--
 **DVE91/DVE91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
