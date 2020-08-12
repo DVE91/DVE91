@@ -1,6 +1,6 @@
 ### Hi there, I'm Diane :wave: 
-#### JavaScript enthusiast on the verge of graduating from Codaisseur Coding Academy in Amsterdam.
+#### JavaScript enthusiast, graduated from Codaisseur Coding Academy in Amsterdam.
 
-:construction: Currently working on my portfolio project, check out my repositories. 
+:eyes:I've built a 2-week portfolio project :eyes: [Check it out!](https://github.com/DVE91/translator-platform-client)
 
-:information_source: [Get in touch!](https://www.linkedin.com/in/diane-van-eldik-a67450123/)
+:information_source: I'm #upToWork as a Junior Full-Stack Web Developer. [Get in touch!](https://www.linkedin.com/in/diane-van-eldik-a67450123/)
