@@ -1,5 +1,5 @@
 ### Hi there, I'm Diane :wave: 
-#### JavaScript enthusiast, graduated from Codaisseur Coding Academy in Amsterdam.
+#### JavaScript enthusiast, just graduated from Codaisseur Coding Academy in Amsterdam.
 
 :eyes:I've built a 2-week portfolio project :eyes: [Check it out!](https://github.com/DVE91/translator-platform-client)
 
